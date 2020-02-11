@@ -11,11 +11,11 @@ https://github.com/Softwarepark/exercises
 
 2. Run application
 
-`ts-node ts-node src/transport-tycoon.ts [cargo destinations ...]`
+`ts-node src/transport-tycoon.ts [cargo destinations ...]`
 
 example:
 
-`ts-node ts-node src/transport-tycoon.ts A A B A B B A B`
+`ts-node src/transport-tycoon.ts A A B A B B A B`
 
 ## Exercise 1
 https://github.com/Softwarepark/exercises/blob/master/transport-tycoon-1.md
